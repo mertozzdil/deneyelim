@@ -1,4 +1,4 @@
-# deneyelim
+# ogrenci_takip_sistemi
 
 A new Flutter application.
 
